@@ -1,8 +1,8 @@
 # <center>Streamflix</center>
 
-<center>
+
 ![Streamflix Banner](./netflix-clone/public/background_banner.jpg)
-</center>
+
 
 ## Overview
 Streamflix is a responsive, Netflix-inspired streaming platform that allows users to browse movies, create watchlists, and enjoy a seamless streaming experience. The project leverages modern web technologies for a performant and user-friendly interface.
@@ -23,7 +23,7 @@ Streamflix is a responsive, Netflix-inspired streaming platform that allows user
 - **Version Control:** Git, GitHub
 
 ## Screenshots
-![Home Page](./netflix-clone/public/banner.png.png)
+
 ![SignupPage](./netflix-clone/public/signupPage.png)
 ![Home Page ](./netflix-clone/public/homePage.png)
 
